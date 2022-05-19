@@ -1,0 +1,8 @@
+name: GamingSara
+version: '${project.version}'
+main: net.azisaba.gamingsara.GamingSara
+depend:
+  - AziPluginMessaging
+commands:
+  gamingsara:
+    description: "Toggles the gaming sara"
